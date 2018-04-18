@@ -1,1 +1,0 @@
-# Automatically-assign-VM-to-host-with-1-1-mapping-to-avoid-performance-contention
